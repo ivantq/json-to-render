@@ -1,0 +1,1 @@
+import{o as n,c as s,a}from"./app.736e0c05.js";const p='{"title":"快速上手","description":"","frontmatter":{},"relativePath":"guide/getting-started.md","lastUpdated":1614834521797}',t={},e=a('',8);t.render=function(a,p,t,o,c,l){return n(),s("div",null,[e])};export default t;export{p as __pageData};
